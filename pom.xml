@@ -4,7 +4,7 @@
 
   <groupId>org.example</groupId>
   <artifactId>Ylab-CORE-HW2</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version><build><plugins><plugin><groupId>org.apache.maven.plugins</groupId><artifactId>maven-compiler-plugin</artifactId><configuration><source>16</source><target>16</target></configuration></plugin></plugins></build>
   <packaging>jar</packaging>
 
   <name>Ylab-CORE-HW2</name>
